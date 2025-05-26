@@ -1,17 +1,10 @@
 ---
 layout: page
-title: Moi
-subtitle: Voice une page pour mon CV
+title: "Résumé"
+subtitle: Why you'd want to go on a date with me
+# permalink: /resume/
 ---
 
-My name is georges. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<object data="assets/data/CV_OppenheimlEnglish -2025-Site.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Your browser does not support PDFs. <a href="/assets/pdfs/resume.pdf">Download the PDF</a>.</p>
+</object>
