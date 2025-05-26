@@ -8,4 +8,6 @@ title: "Resume"
 
 <img src="/assets/img/photo.jpeg" alt="Alt text" width="100%">
 
-  <p><a href="/assets/data/cv.pdf">Download the PDF</a>.</p>
+<img src="/assets/img/cv-1.png" alt="Alt text" width="100%">
+
+<p><a href="/assets/data/cv.pdf">Download the PDF</a>.</p>
