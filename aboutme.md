@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Georges Oppenheim. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I’m a mathematician and applied researcher with deep expertise in modeling, optimization, and data analysis, blending classical methods with modern AI. With decades of experience spanning academia and industry, I’ve designed and implemented data-driven solutions across diverse domains including aerospace, energy, automotive, finance, and environmental science.
 
-What else do you need?
+My work leverages a rich methodological toolkit—ranging from signal processing and wavelets to deep learning and reinforcement learning. I’ve authored over a hundred scientific publications, developed software used globally, and led research collaborations with organizations like EDF, Renault, and Total. I currently serve as CEO of a fintech startup and am an emeritus professor of mathematics.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

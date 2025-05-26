@@ -4,7 +4,7 @@ title: "Resume"
 # permalink: /resume/
 ---
 
-<img src="/assets/img/cv-1.png" alt="Alt text" width="100%" height="100%">
+<img src="/assets/data/cv-1.png" alt="Alt text" width="100%" height="100%">
 
 <img src="/assets/img/photo.jpeg" alt="Alt text" width="100%">
 
