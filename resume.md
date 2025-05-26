@@ -4,7 +4,7 @@ title: Resume
 subtitle: Voice une page pour mon CV
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is georges. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
