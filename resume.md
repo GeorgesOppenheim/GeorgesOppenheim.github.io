@@ -9,12 +9,7 @@ subtitle: Why you'd want to go on a date with me
 ![alt text](assets/data/cv.pdf "Title")
 
 
-<img src="/assets/images/cv.pdf" alt="Alt text" width="600">
-
-
-<img src="/assets/data/cv.pdf" alt="Alt text" width="100%">
-
-<img src="/assets/data/cv.pdf" alt="Alt text" width="100%">
+<img src="/assets/img/cv-1.png" alt="Alt text" width="100%" height="100%">
 
 <img src="/assets/img/404-southpark.jpg" alt="Alt text" width="100%">
 
