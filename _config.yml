@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Personnal website
+title: Personal website
 
 # Your name to show in the footer
 author: Georges Oppenheim
@@ -24,8 +24,8 @@ navbar-links:
   Publications: "https://scholar.google.com/citations?user=9_CbMv4AAAAJ&hl=fr"
   About Me: "aboutme"
 
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  # Resources:
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -36,7 +36,7 @@ navbar-links:
 avatar: "/assets/img/photo.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: True
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -98,7 +98,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
