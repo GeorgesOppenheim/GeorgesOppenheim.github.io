@@ -61,6 +61,8 @@ social-network-links:
 #   patreon: DeanAttali
 #   youtube: "@daattali"
   whatsapp: +33 6 20 82 14 15
+  linkedin: georgesoppenheim
+
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -85,16 +87,15 @@ social-network-links:
 #  gitlab: yourname
 #  itchio: yourname
 #  untappd: yourname
-strava: youruserid
+# strava: youruserid
 
 
-mail 
-téléphone
-Adresse 
-google-scholar 
-page linkedin 
 
-dophi s.a.s.
+# Adresse 
+# google-scholar 
+# page linkedin 
+
+# dophi s.a.s.
 
 
 # If you want your website to generate an RSS feed, provide a description
