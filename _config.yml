@@ -21,7 +21,7 @@ author: Georges Oppenheim
 
 navbar-links:
   Resume: "resume"
-  Publications: "publications"
+  Publications: "https://scholar.google.com/citations?user=9_CbMv4AAAAJ&hl=fr"
   About Me: "aboutme"
 
   Resources:
@@ -274,7 +274,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
