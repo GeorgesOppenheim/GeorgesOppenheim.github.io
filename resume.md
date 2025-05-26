@@ -6,9 +6,9 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 
-![alt text]("assets/data/CV_OppenheimlEnglish -2025-Site.pdf" "Title")
+![alt text](assets/data/cv.pdf "Title")
 
 
-<object data="assets/data/CV_OppenheimlEnglish -2025-Site.pdf" type="application/pdf" width="100%" height="600px">
+<object data=assets/data/cv.pdf type="application/pdf" width="100%" height="600px">
   <p>Your browser does not support PDFs. <a href="/assets/pdfs/resume.pdf">Download the PDF</a>.</p>
 </object>
